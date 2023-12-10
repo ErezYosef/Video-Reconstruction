@@ -10,7 +10,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=rYS9pnGXjBU
 " target="_blank"><img src="video_cover.jpg" 
-alt="Watch the video" width="240" /></a>
+alt="Watch the video" width="400" /></a>
 
 ## Abstract    
 Video reconstruction from a single motion-blurred image is a challenging problem, which can enhance the capabilities of existing cameras. Recently, several works addressed this task using conventional imaging and deep learning. Yet, such purely digital methods are inherently limited, due to direction ambiguity and noise sensitivity. Some works attempt to address these limitations with non-conventional image sensors, however, such sensors are extremely rare and expensive. To circumvent these limitations by simpler means, we propose a hybrid optical-digital method for video reconstruction that requires only simple modifications to existing optical systems. We use learned dynamic phase-coding in the lens aperture during image acquisition to encode motion trajectories, which serve as prior information for the video reconstruction process. The proposed computational camera generates a sharp frame burst of the scene at various frame rates from a single coded motion-blurred image, using an image-to-video convolutional neural network. We present advantages and improved performance compared to existing methods, with both simulations and a real-world camera prototype. We extend our optical coding to video frame interpolation and present robust and improved results for noisy videos.  
