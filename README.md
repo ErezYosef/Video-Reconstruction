@@ -9,7 +9,7 @@
 #### [Paper](https://www.nature.com/articles/s41598-023-40297-0)  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=rYS9pnGXjBU
-" target="_blank"><img src="inputs/car.png" 
+" target="_blank"><img src="video_cover.jpg" 
 alt="Watch the video" width="240" /></a>
 
 ## Abstract    
