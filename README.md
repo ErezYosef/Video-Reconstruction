@@ -39,7 +39,7 @@ where:
   
 The generated frames will be generated in `outputs/[img_name]` folder.
 ### For example, you can run:  
-```python run_demo.p -t 25 --imgpath inputs/car2.png```
+```python run_demo.py -t 25 --imgpath inputs/car2.png```
 
 ### If you find our work useful in your research or publication, please cite it:
 
